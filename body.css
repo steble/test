@@ -1,3 +1,5 @@
 body{
-background: url(https://commons.wikimedia.org/wiki/File:Great_Grand_Canyon.jpg) no-repeat center center fixed; background-size: cover;
+background: url(https://commons.wikimedia.org/wiki/File:Great_Grand_Canyon.jpg) fixed !important;
+  background-repeat: no-repeat !important;
+  background-size: 100% !important;
 }
